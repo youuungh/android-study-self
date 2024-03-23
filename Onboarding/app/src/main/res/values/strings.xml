@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Onboarding</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_1">제목 1</string>
+    <string name="title_2">제목 2</string>
+    <string name="title_3">제목 3</string>
+    <string name="description_1">설명 1</string>
+    <string name="description_2">설명 2</string>
+    <string name="description_3">설명 3</string>
+</resources>
